@@ -1,0 +1,74 @@
+{
+  "storeitems": [
+    {
+      "id": "001-beetroot",
+      "name": "beetroot",
+      "price": 0.35,
+      "image": "/assets/icons/001-beetroot.svg",
+      "alt": "beetroot"
+    },
+    {
+      "id": "002-carrot",
+      "name": "carrot",
+      "price": 0.15,
+      "image": "/assets/icons/002-carrot.svg",
+      "alt": "carrot"
+    },
+    {
+      "id": "003-apple",
+      "name": "apple",
+      "price": 0.15,
+      "image": "/assets/icons/003-apple.svg",
+      "alt": "apple"
+    },
+    {
+      "id": "004-apricot",
+      "name": "apricot",
+      "price": 0.35,
+      "image": "/assets/icons/004-apricot.svg",
+      "alt": "apricot"
+    },
+    {
+      "id": "005-avocado",
+      "name": "avocado",
+      "price": 0.25,
+      "image": "/assets/icons/005-avocado.svg",
+      "alt": "avocado"
+    },
+    {
+      "id": "006-bananas",
+      "name": "bananas",
+      "price": 0.2,
+      "image": "/assets/icons/006-bananas.svg",
+      "alt": "bananas"
+    },
+    {
+      "id": "007-bell-pepper",
+      "name": "bell pepper",
+      "price": 0.25,
+      "image": "/assets/icons/007-bell-pepper.svg",
+      "alt": "bell-pepper"
+    },
+    {
+      "id": "008-berry",
+      "name": "berry",
+      "price": 0.35,
+      "image": "/assets/icons/008-berry.svg",
+      "alt": "berry"
+    },
+    {
+      "id": "009-blueberry",
+      "name": "blueberry",
+      "price": 0.25,
+      "image": "/assets/icons/009-blueberry.svg",
+      "alt": "blueberry"
+    },
+    {
+      "id": "010-eggplant",
+      "name": "eggplant",
+      "price": 0.3,
+      "image": "/assets/icons/010-eggplant.svg",
+      "alt": "eggplant"
+    }
+  ]
+}
